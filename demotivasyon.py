@@ -53,5 +53,5 @@ if __name__ == "__main__":
 # Not: Bu motor, hiçbir şirketin HR departmanı tarafından onaylanmamıştır. Onaylanması da beklenmemektedir.
 # =====================================================================
 #
-# Gizli not (base64): VGllc2kgdGVyZmluIGdlcmVrIHNlbmRlbiB2ZXJnaXNpIGJpbG1pbmkgYmlsbWVkaS4= 
-# (decode edersen anlarsın, ama anlamanı önermiyorum)
+# Gizli not (base64): VmVyZ2kgZGlsaW1sZXJpIGRlxJ9pxZ90aSBhbWEgc2VuaW4gbWFhxZ/EsW4gaMOibMOiIGF5bsSxLiBUZWJyaWtsZXIu
+# (decode edersen anlarsın, ama anlamanı önermiyorum. Ofis gerçekleri.)
